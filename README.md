@@ -1,8 +1,5 @@
 # NNDL_PROJECT
-Here is your **final, polished, complete `README.md`** created **directly from your notebook workflow** (KaggleHub download → preprocessing → MobileNetV2 transfer learning → training → evaluation → prediction).
-You can copy-paste this as **README.md** in your project.
 
----
 
 # **Pneumonia Detection Using Deep Learning (MobileNetV2 Transfer Learning)**
 
